@@ -68,15 +68,6 @@ The model follows an **encoder-decoder architecture** with an additional context
 
 ---
 
-## **How to Use**
-1. Clone the repository.
-2. Install the required dependencies (listed in `requirements.txt`).
-3. Preprocess the dataset using the provided scripts.
-4. Train the model using the `train.py` script.
-5. Generate captions for new images using the `generate_caption.py` script.
-
----
-
 ## **Dependencies**
 - Python 3.x
 - TensorFlow/Keras
